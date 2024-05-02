@@ -5,8 +5,8 @@ message = "Hello, Guys!"
 print(message)
 
 # Access individual characters in the string
-first_character = message[0]
-print("The first character is:", first_character)
+second_character = message[1]
+print("The second character is:", second_character)
 
 # Find the length of the string
 length = len(message)
